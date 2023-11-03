@@ -14,19 +14,22 @@ I've always had a passion for web development and software engineering. Through 
 <td align="center" width="33%">
 <h3><a href="https://github.com/EmilyJarecki/TOP-Project/tree/ceina" target="_blank">The Opportunity Project 2023: Make My Test Count</a></h3>
 JavaScript - React.js - Next.js - Tailwind CSS
-<a href="https://top-project.vercel.app/" target="_blank"><img width="1142" alt="MakeMyTestCount" src="https://github.com/xcbhx/xcbhx/assets/113928255/a73bec7a-4791-4952-91ca-94ad0579a98a"></a>
+<br></br>
+<img alt="MakeMyTestCount" src="https://github.com/xcbhx/xcbhx/assets/113928255/a73bec7a-4791-4952-91ca-94ad0579a98a">
 </td>
 
 <td align="center" width="33%">
 <h3><a href="https://github.com/xcbhx/maybelline" target="_blank">Maybelline</a></h3>
 JavaScript - React.js - CSS - Node.js - Express.js - MongoDB - JWT 
-<a href="https://maybelline.herokuapp.com/" target="_blank"><img width="1142" alt="Maybelline" src="https://github.com/xcbhx/xcbhx/assets/113928255/e1cc16b5-fc14-4c7a-aada-913b7bf0180a"></a>
+<br></br>
+<img alt="Maybelline" src="https://github.com/xcbhx/xcbhx/assets/113928255/e1cc16b5-fc14-4c7a-aada-913b7bf0180a">
 </td>
 
 <td align="center" width="33%">
 <h3><a href="https://github.com/xcbhx/where-to-next" target="_blank">Where To Next?</a></h3>
 JavaScript - HTML - CSS - Node.js - Express.js - MongoDB
-<a href="https://where-to-next-blog.herokuapp.com" target="_blank"><img width="1242" alt="WhereToNext?" src="https://github.com/xcbhx/xcbhx/assets/113928255/855418a6-4c44-43c3-a35f-1dc0f56c386e"></a>
+<br></br>
+<img alt="WhereToNext?" src="https://github.com/xcbhx/xcbhx/assets/113928255/855418a6-4c44-43c3-a35f-1dc0f56c386e">
 </td>
 
 </tr>
